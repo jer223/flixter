@@ -36,7 +36,7 @@ ActiveRecord::Schema.define(version: 2019_08_18_011713) do
   end
 
   create_table "photos", force: :cascade do |t|
-    t.text "Description"
+    t.text "caption"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
