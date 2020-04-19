@@ -1,24 +1,34 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flixter is a two-sided video streaming marketplace. It features payment capabilities, user role managment, complex user interfaces and advanced database relationships.
 
-Things you may want to cover:
+![image](/app/assets/images/flixterdemo.png)
 
-* Ruby version
+[Visit Flixter here](https://flixter-jeremy-hall.herokuapp.com/)
 
-* System dependencies
+---
 
-* Configuration
+## Getting started
 
-* Database creation
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-* Database initialization
+### Installing
 
-* How to run the test suite
+Git clone the repository to your local machine:
 
-* Services (job queues, cache servers, search engines, etc.)
+<p>HTTPS:</p><pre><code> $ https://github.com/jer223/flixter.git </code></pre>
 
-* Deployment instructions
+<p>SSH:</p><pre><code> $ git@github.com:jer223/flixter.git </code></pre>
 
-* ...
+## Built with:
+
+* Rails
+* Bootstrap
+* SimpleForm
+* Devise
+* CarrierWave
+* Stripe
+
+## Authors
+
+Please see list of [contributors](https://github.com/jer223/grammable/graphs/contributors).
