@@ -31,4 +31,4 @@ Git clone the repository to your local machine:
 
 ## Authors
 
-Please see list of [contributors](https://github.com/jer223/grammable/graphs/contributors).
+Please see list of [contributors](https://github.com/jer223/flixter/graphs/contributors).
